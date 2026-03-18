@@ -1,91 +1,166 @@
-# Privacy Policy
+Tripzi Privacy Policy
 
-Last updated: March 17, 2026
+Last updated: 18.03.2026
 
-This Privacy Policy describes how this mobile application ("the App") collects, uses, and protects information when you use the App.
+⸻
 
-## Overview
+Introduction
 
-The App is designed to help users discover flight deals. We value your privacy and aim to collect as little information as possible.
+Welcome to Tripzi (“Tripzi”, “the App”, “we”, “our”, or “us”).
 
-This Privacy Policy explains what data may be collected, how it is used, and your rights regarding that information.
+Tripzi helps travelers discover cheap flight deals and travel opportunities from their preferred departure airports.
 
-## Information We Collect
+Your privacy is important to us. This Privacy Policy explains what information we collect, how we use it, and what choices you have when using the app.
 
-The App may collect limited information necessary for the proper functioning of the application.
+By using Tripzi, you agree to the practices described in this Privacy Policy.
 
-### Device Information
-The App may automatically collect certain technical information including:
+⸻
 
-- Device model  
-- Operating system version  
-- App version  
-- Anonymous device identifiers  
+1. Information We Collect
 
-This information is used only to improve the stability and performance of the App.
+Information You Provide
 
-### Analytics Data
-The App may collect anonymous usage data such as:
+When you use Tripzi, you may provide certain information that helps personalize your experience, including:
+	•	Departure airports you select
+	•	Destinations you search for
+	•	Travel preferences
+	•	Saved flight deals
+	•	Price alerts you create
 
-- Screens viewed
-- App interactions
-- Feature usage
-- Crash reports
+This information is used only to provide and improve the service.
 
-This information helps us understand how the App is used and improve the user experience.
+Tripzi does not require account creation to use the app.
 
-### Push Notification Token
-If you allow notifications, the App may collect a push notification token. This token allows the App to send notifications about relevant flight deals.
+⸻
 
-This token does not identify you personally.
+Automatically Collected Information
 
-## How We Use Information
+Some information is collected automatically when you use the app, including:
+	•	Device type and operating system
+	•	App version and build number
+	•	Anonymous device identifiers
+	•	Search activity related to flight deals
+	•	App performance and crash reports
 
-Information collected by the App may be used for the following purposes:
+This information helps us operate and improve the app.
 
-- To send notifications about flight deals
-- To improve app performance and reliability
-- To analyze how users interact with the App
-- To fix bugs and technical issues
+Tripzi does not collect personally identifiable information such as your name, address, or phone number unless you choose to provide it.
 
-We do not sell, rent, or trade your personal information.
+⸻
 
-## Third-Party Services
+2. Firebase Services
 
-The App may use third-party services that help operate and improve the application. These services may collect information in accordance with their own privacy policies.
+Tripzi uses Google Firebase to support certain functionality including:
+	•	Anonymous authentication
+	•	Push notifications
+	•	Crash reporting
+	•	App performance monitoring
+	•	Secure backend communication
 
-Examples of services that may be used include:
+Firebase may collect limited technical information required to operate these services.
 
-- Analytics providers
-- Crash reporting tools
-- Push notification services
+More information:
+https://firebase.google.com/support/privacy
 
-These services only receive the information necessary to perform their functions.
+⸻
 
-## Data Storage
+3. Flight Data Providers
 
-The App does not require user accounts and does not store personal user profiles.
+Tripzi displays flight availability and pricing information from third-party travel data providers, including Kiwi.com.
 
-Any collected analytics data is anonymized and handled by third-party service providers.
+When you choose to book a flight, Tripzi will open an external booking page where you can complete the reservation.
 
-## Data Security
+Tripzi does not process or store payments and does not act as a travel agency.
 
-We take reasonable measures to protect information collected through the App. However, no method of transmission over the internet or electronic storage is completely secure.
+Any booking you complete is handled directly by the airline or travel provider.
 
-## Children's Privacy
+⸻
 
-The App is not directed toward children under the age of 13. We do not knowingly collect personal information from children.
+4. Push Notifications
 
-If you believe that a child has provided personal information through the App, please contact us so that we can remove the information.
+If you enable notifications, Tripzi may send alerts about:
+	•	Cheap flight deals
+	•	Price drops
+	•	Travel opportunities
 
-## Changes to This Privacy Policy
+You can disable push notifications at any time in your device settings.
 
-We may update this Privacy Policy from time to time. Updates will be posted on this page with a revised "Last updated" date.
+⸻
 
-You are encouraged to review this Privacy Policy periodically.
+5. How We Use Information
 
-## Contact
+Tripzi uses collected information to:
+	•	Show relevant flight deals
+	•	Provide saved deals and price tracking
+	•	Improve search results
+	•	Monitor app performance and reliability
+	•	Prevent abuse of the service
+	•	Send notifications when enabled
 
-If you have any questions about this Privacy Policy, you may contact us at:
+Tripzi does not sell your personal data.
 
-Email: your@email.com
+⸻
+
+6. Data Storage
+
+Most user data (such as saved deals) is stored locally on your device.
+
+Some operational data may be stored securely on cloud infrastructure operated through Google Cloud Platform and Firebase.
+
+We retain data only as long as necessary to provide the service.
+
+⸻
+
+7. Third-Party Services
+
+Tripzi may rely on third-party services to operate the app, including:
+	•	Google Firebase
+	•	Google Cloud Platform
+	•	Kiwi.com flight data services
+
+These services may process limited technical data required to provide their functionality.
+
+⸻
+
+8. Children’s Privacy
+
+Tripzi is not intended for children under the age of 13.
+
+We do not knowingly collect personal information from children.
+
+⸻
+
+9. Your Choices
+
+You can control your data by:
+	•	Disabling push notifications
+	•	Removing saved deals
+	•	Resetting the app from the settings screen
+	•	Deleting the app from your device
+
+⸻
+
+10. Security
+
+Tripzi uses secure HTTPS connections and backend protections to safeguard data.
+
+However, no system can guarantee absolute security.
+
+⸻
+
+11. Changes to This Policy
+
+We may update this Privacy Policy from time to time.
+
+When we do, we will update the Last updated date at the top of this page.
+
+⸻
+
+12. Contact
+
+If you have questions about this Privacy Policy, you can contact us at:
+
+Email: barankrotky@protonmail.com
+
+⸻
+
